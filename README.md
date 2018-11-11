@@ -11,7 +11,7 @@ Regression is a technique from statistics that is used to predict values of a de
 4) Restructuring the budget of an organization. <br>
 
 # Pre-requisites
-Download and install the following module: <br> 
+Download and install the following modules: <br> 
 1)sklearn- pip install sklearn <br>
 2)matlplotlib- pip install matplotlib <br>
 3)pandas- pip install pandas <br>
