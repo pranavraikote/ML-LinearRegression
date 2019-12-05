@@ -2,7 +2,7 @@
 Implementation of Linear Regression using Python
 
 # About
-Regression is a technique from statistics that is used to predict values of a desired target quantity when the target quantity is continuous. In our example we are using the Boston Housing Data Set.The goal of regression is to be able to predict the price of a given house after knowing the area of a given house.
+Regression is a technique from statistics that is used to predict values of a desired target quantity when the target quantity is continuous. In our example we are using the Boston Housing Data Set. The goal of regression is to be able to predict the price of a given house after knowing the area of a given house.
  
 # Applications 
 1) Financial Forecasting <br>
