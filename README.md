@@ -1,4 +1,4 @@
-# regression
+# ML-LinearRegression
 Implementation of Linear Regression using Python
 
 # About
